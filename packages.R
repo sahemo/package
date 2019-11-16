@@ -14,7 +14,7 @@ install_or_load_pack <- function(pack){
 }
 
 pckg <- c("MASS", "lmtest", "car", "haven", "foreign", "dplyr", "ggplot2", "contrast", "orcutt", "forecast",
-          "aod", "faraway", "survival", "lme4", "tseries")
+          "aod", "faraway", "survival", "lme4", "tseries", "flexsurv")
 
 
 install_or_load_pack(pckg)
